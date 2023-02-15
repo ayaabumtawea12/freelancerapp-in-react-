@@ -1,0 +1,32 @@
+.portfolio{
+    margin-top: 160px;
+}
+
+.portfolio .container  .title h2{
+    color: #2c3e50;
+    font-size: 50px;
+}
+
+
+.portfolio .container .content .fa-star{
+    color: #2c3e50;
+}
+.portfolio .container .content .line1{
+    width: 100px;
+    height: 4px;
+    background-color:  #2c3e50;
+    right:19px;
+    top: -5px;
+}
+
+
+.portfolio .container .content .line2{
+    width: 100px;
+    height: 4px;
+    background-color: #2c3e50;
+    left: 18px;
+    top: -5px;
+}
+ 
+ 
+

@@ -1,0 +1,39 @@
+ 
+header{
+    background-color: #1abc9c;
+    height: 660px;
+ }
+
+ header h1{
+    font-family:-apple-system;
+    font-weight:bold;
+   
+ }
+
+ header .container img{
+    width: 15rem;
+    margin-top: 150px;
+}
+
+header .container .line1{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    right: 32px;
+    top: 10px;
+}
+
+
+header .container .line2{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    left: 30px;
+    top: -19px;
+}
+
+p{
+    font-size: 25px;
+}
+
+ 

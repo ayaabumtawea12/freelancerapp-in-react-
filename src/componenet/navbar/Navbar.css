@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #2c3e50;
+    
+ }
+
+
+.container .navbar-brand{
+    font-size: 35px;
+    font-family:  -apple-system;
+}
+
+
+.nav-item .nav-link {
+    font-size: 19px;
+    font-family:  -apple-system;
+}
+
+.nav-item .nav-link:hover{
+color: #1abc9c !important;
+}
+
+.navbar-toggler{
+    background-color:#1abc9c !important;
+}

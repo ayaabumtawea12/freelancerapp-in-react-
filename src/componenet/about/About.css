@@ -1,0 +1,62 @@
+.about{
+    background-color: #1abc9c;
+    height: 670px;
+
+}
+
+ 
+
+
+.about .title h2{
+    padding-top: 100px;
+    color: white;
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin-top: 70px;
+}
+
+
+
+.about .container .content .fa-star{
+    color: white;
+}
+.about .container .content .line1{
+    width: 100px;
+    height: 4px;
+    background-color:  white;
+    right:19px;
+    top: -5px;
+}
+
+
+.about .container .content .line2{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    left: 18px;
+    top: -5px;
+}
+
+.about .container .row .lead{
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.about .container .btn{
+    border: 2px solid white;
+    padding: 15px 30px;
+
+}
+
+.about .container .icon:hover .btn{
+background-color: white;
+color: black !important;
+}
+
+
+.about .container .btn a{
+
+    text-decoration: none;
+    color: white;
+    
+}
